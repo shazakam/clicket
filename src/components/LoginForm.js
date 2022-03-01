@@ -33,7 +33,7 @@ function LoginForm({Login, error}){
 
                 <input type="submit" value="LOGIN"></input>
 
-                <p>Don't have an account? Sign up <a href = "https://www.youtube.com/watch?v=2dbR2JZmlWo">here!</a>!</p>
+                <p>Don't have an account? Sign up <a href = "https://www.youtube.com/watch?v=2dbR2JZmlWo">here!</a></p>
             </div>
         </form>
     )
