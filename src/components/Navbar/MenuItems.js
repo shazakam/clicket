@@ -1,19 +1,19 @@
 export const MenuItems = [
     {
         title: 'Market Place',
-        url: '#',
+        url: 'marketplace',
         cName: 'nav-links'
     },
 
     {
         title: 'Chats',
-        url: '#',
+        url: 'chats',
         cName: 'nav-links'
     },
 
     {
         title: 'Profile',
-        url: '#',
+        url: 'profile',
         cName: 'nav-links'
     }
 

@@ -45,7 +45,6 @@ function App() {
             <LoginForm Login={Login} error={error}></LoginForm>
           )}
       </div>
-        
     </div>
   )
 }
